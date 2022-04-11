@@ -11,21 +11,21 @@ python3 -m domainbed.scripts.download \
        --data_dir=./domainbed/data
 ```
 * Downloade CelebA dataset from [here]()
-* Downloade clean NICO dataset from [here]()
+* Downloade clean NICO dataset (provided by ours) from [here]()
 * The directory structures are discribed at [OoD-Bench](https://github.com/ynysjtu/ood_bench)
 
-### Lanch 
+### Install
 
 * Pytorch
 
-### Executing program
+### Launch a sweep
 
-* How to run the program
-* Step-by-step bullets
 ```
 cd /ood_bench/DomainBed
-bash sweep/"dataset_name"/run.sh launch ../datasets #gpu_id
+bash sweep/"dataset_name"/run.sh launch ../datasets 0
 ```
+* To change the training setting, modify the scripts under /ood_bench/DomainBed/sweep.
+* If you have any questions about the scripts, more details are discribed at [OoD-Bench](https://github.com/ynysjtu/ood_bench) and [DomainBed](https://github.com/facebookresearch/DomainBed)
 
 ## Help
 
