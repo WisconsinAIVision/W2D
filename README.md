@@ -8,15 +8,18 @@ An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+### Data Preparation
+* Downloader datasets (except NICO and CelebA datasets)
+```
+python3 -m domainbed.scripts.download \
+       --data_dir=./domainbed/data
+```
+* Downloade CelebA dataset from [here]()
+* Downloade clean NICO dataset from [here]()
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Pytorch
 
 ### Executing program
 
