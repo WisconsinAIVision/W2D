@@ -14,7 +14,7 @@ This repo is the official implementation of our CVPR 2022 paper ["The Two Dimens
 python3 -m domainbed.scripts.download \
        --data_dir=./domainbed/data
 ```
-* Download CelebA dataset from [here]()
+* Download CelebA dataset from [here](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 * Download clean NICO dataset (provided by ours) from [here]()
 * The directory structures are discribed at [OoD-Bench](https://github.com/ynysjtu/ood_bench)
 
