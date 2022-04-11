@@ -2,10 +2,6 @@
 
 This repo is the official implementation of our CVPR 2022 paper ["The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization"]().
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
 ## Getting Started
 
 ### Data Preparation
@@ -16,6 +12,7 @@ python3 -m domainbed.scripts.download \
 ```
 * Downloade CelebA dataset from [here]()
 * Downloade clean NICO dataset from [here]()
+Note, the directory structures can be found from [OoD-Bench](https://github.com/ynysjtu/ood_bench)
 
 ### Installing
 
