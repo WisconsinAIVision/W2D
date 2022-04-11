@@ -3,7 +3,7 @@
 This repo is the official implementation of our CVPR 2022 paper ["The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization"]().
 
 <p align="center">
- <img src="https://github.com/OoDBag/W2D/blob/main/overview.png" width="200" height="400" />
+ <img src="https://github.com/OoDBag/W2D/blob/main/overview.png" width="515" height="481" />
 
 
 ## Getting Started
