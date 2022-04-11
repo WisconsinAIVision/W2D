@@ -2,6 +2,8 @@
 
 This repo is the official implementation of our CVPR 2022 paper ["The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization"]().
 
+![alt text](http://url/to/img.png)
+
 ## Getting Started
 
 ### Data Preparation
