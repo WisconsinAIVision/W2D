@@ -12,7 +12,7 @@ python3 -m domainbed.scripts.download \
 ```
 * Downloade CelebA dataset from [here]()
 * Downloade clean NICO dataset from [here]()
-Note, the directory structures can be found from [OoD-Bench](https://github.com/ynysjtu/ood_bench)
+* Note, the directory structures can be found from [OoD-Bench](https://github.com/ynysjtu/ood_bench)
 
 ### Installing
 
