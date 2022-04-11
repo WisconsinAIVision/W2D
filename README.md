@@ -30,7 +30,7 @@ bash sweep/"dataset_name"/run.sh launch ../datasets 0
 ```
 * To change the training setting, modify the scripts under /ood_bench/DomainBed/sweep.
 * If you have any questions about the scripts, more details are discribed at [OoD-Bench](https://github.com/ynysjtu/ood_bench) and [DomainBed](https://github.com/facebookresearch/DomainBed).
-* Note: Since ResNet is not used in Colored_MNIST dataset, when you train on Colored_MNIST, comment line.   
+* Note: Since ResNet is not used in Colored_MNIST dataset, when you train on Colored_MNIST, uncomment line 992-1020 at algorithms.py.   
 
 ### View the results
 
