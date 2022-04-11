@@ -27,11 +27,11 @@ bash sweep/"dataset_name"/run.sh launch ../datasets 0
 * To change the training setting, modify the scripts under /ood_bench/DomainBed/sweep.
 * If you have any questions about the scripts, more details are discribed at [OoD-Bench](https://github.com/ynysjtu/ood_bench) and [DomainBed](https://github.com/facebookresearch/DomainBed)
 
-## Help
+### View the results
 
-Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+python -m domainbed.scripts.collect_results\
+       --input_dir="sweep_output_path"
 ```
 
 ## Authors
