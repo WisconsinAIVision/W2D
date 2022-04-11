@@ -12,9 +12,9 @@ python3 -m domainbed.scripts.download \
 ```
 * Downloade CelebA dataset from [here]()
 * Downloade clean NICO dataset from [here]()
-* Note, the directory structures can be found from [OoD-Bench](https://github.com/ynysjtu/ood_bench)
+* The directory structures are discribed at [OoD-Bench](https://github.com/ynysjtu/ood_bench)
 
-### Installing
+### Lanch 
 
 * Pytorch
 
@@ -23,7 +23,8 @@ python3 -m domainbed.scripts.download \
 * How to run the program
 * Step-by-step bullets
 ```
-code blocks for commands
+cd /ood_bench/DomainBed
+bash sweep/"dataset_name"/run.sh launch ../datasets #gpu_id
 ```
 
 ## Help
