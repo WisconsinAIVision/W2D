@@ -2,7 +2,8 @@
 
 This repo is the official implementation of our CVPR 2022 paper ["The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization"]().
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/OoDBag/W2D/blob/master/overview.png?raw=true)
+
 
 ## Getting Started
 
@@ -38,4 +39,4 @@ python -m domainbed.scripts.collect_results\
 ```
 
 ## Acknowledgments
-The codebase is built upon OoD-Bench](https://github.com/ynysjtu/ood_bench) and [DomainBed](https://github.com/facebookresearch/DomainBed).
+The codebase is built upon [OoD-Bench](https://github.com/ynysjtu/ood_bench) and [DomainBed](https://github.com/facebookresearch/DomainBed).
