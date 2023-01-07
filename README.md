@@ -1,6 +1,6 @@
 # W2D
 
-This repo is the official implementation of our CVPR 2022 paper ["The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization"]().
+This repo is the official implementation of our CVPR 2022 paper ["The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization"](https://arxiv.org/abs/2204.04384?context=cs.CV).
 
 <p align="center">
  <img src="https://github.com/OoDBag/W2D/blob/main/overview.png" width="515" height="481" />
